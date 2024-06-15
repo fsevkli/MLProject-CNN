@@ -10,7 +10,7 @@ import torch.optim as optim
 from torch.optim.lr_scheduler import CosineAnnealingWarmRestarts
 import numpy as np
 
-$
+
 # Preparing for Data
 print('==> Preparing data..')
 
